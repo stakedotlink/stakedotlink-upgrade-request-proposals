@@ -2,7 +2,7 @@
 id: slurp-1
 title: SLURP-1:SLURP Purpose and Guidelines
 status: Draft
-author: [ericjaurena](https://github.com/ericjaurena)
+author: Eric Jaurena @ericjaurena
 description: SLURP-1:SLURP Purpose and Guidelines
 discussions-to: https://talk.stake.link 
 hide_title: false
