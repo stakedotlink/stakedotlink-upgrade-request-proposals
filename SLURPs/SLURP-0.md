@@ -1,9 +1,9 @@
 ---
 id: slurp-0
-title: SLURP-0: SLURP Purpose and Guidelines
+title: SLURP-0:SLURP Purpose and Guidelines
 status: Draft
 author: Eric Jaurena @ericjaurena
-description: SLURP-1:SLURP Purpose and Guidelines
+description: SLURP-0:SLURP Purpose and Guidelines
 discussions-to: https://talk.stake.link 
 hide_title: false
 sidebar_label: SLURP-0
