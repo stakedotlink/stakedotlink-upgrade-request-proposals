@@ -24,7 +24,7 @@ The adoption of Council style governance a la Synthetix and Thales allows for bo
 
 #### Format
 
-Defined by [SLURP-0]() TODO
+Defined by [SLURP-0](https://github.com/stakedotlink/stakedotlink-upgrade-request-proposals/blob/main/SLURPs/SLURP-0.md)
 
 #### Process
 
@@ -62,7 +62,7 @@ Leveraging an implementation similar to the [Thales Council](https://etherscan.i
 
 ### Voting
 
-After discussion on talk.stake.link, this SLURP (SLURP-1), paired with the implementation specifications of SLURP-0, will be put up for a YES/NO vote based on simple SDL/stSDL/SDL in LP position holdings via Snapshot.
+After discussion on talk.stake.link, this SLURP (SLURP-1), paired with the implementation specifications of [SLURP-0](https://github.com/stakedotlink/stakedotlink-upgrade-request-proposals/blob/main/SLURPs/SLURP-0.md), will be put up for a YES/NO vote based on simple SDL/stSDL/SDL in LP position holdings via Snapshot.
 
 ## Examples  
 
