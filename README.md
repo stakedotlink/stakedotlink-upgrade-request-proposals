@@ -3,7 +3,7 @@
 
 stake.link Upgrade Request Proposals (SLURPs) describe standards, processes and provide general guidelines or information to the stake.link community.
 
-## List of TIPs
+## List of SLURPs
 
 | # | Title | Status | 
 | ----------- | ----------- | ----------- | 
