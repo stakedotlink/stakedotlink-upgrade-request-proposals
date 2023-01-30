@@ -1,13 +1,6 @@
----
-id: slurp-0
-title: SLURP-0:SLURP Purpose and Guidelines
-status: Draft
-author: Eric Jaurena @ericjaurena
-description: SLURP-0:SLURP Purpose and Guidelines
-discussions-to: [talk.stake.link](https://talk.stake.link/t/slurp-1-and-slurp-0-formalize-stake-link-governance-structure-and-processes-and-slurp-purpose-and-guidelines/19)
-hide_title: false
-sidebar_label: SLURP-0
----
+| id | Title | Status | Author | Description | Discussions to | Created |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| SLURP-0 | SLURP Purpose and Guidelines | Draft | Eric Jaurena (@ericjaurena) | SLURP Purpose and Guidelines | [talk.stake.link](https://talk.stake.link/t/slurp-1-and-slurp-0-formalize-stake-link-governance-structure-and-processes-and-slurp-purpose-and-guidelines/19) | 2023-01-30
 
 ## What is a SLURP?
 
