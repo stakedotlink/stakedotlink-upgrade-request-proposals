@@ -4,7 +4,7 @@ title: SLURP-0:SLURP Purpose and Guidelines
 status: Draft
 author: Eric Jaurena @ericjaurena
 description: SLURP-0:SLURP Purpose and Guidelines
-discussions-to: https://talk.stake.link 
+discussions-to: [talk.stake.link](https://talk.stake.link/t/slurp-1-and-slurp-0-formalize-stake-link-governance-structure-and-processes-and-slurp-purpose-and-guidelines/19)
 hide_title: false
 sidebar_label: SLURP-0
 ---
