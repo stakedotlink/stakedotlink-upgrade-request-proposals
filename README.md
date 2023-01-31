@@ -7,5 +7,5 @@ stake.link Upgrade Request Proposals (SLURPs) describe standards, processes and 
 
 | # | Title | Status | 
 | ----------- | ----------- | ----------- | 
-| SLURP-0 | [SLURP Formats and Templates](SLURPs/SLURP-0.md) | Proposed |
-| SLURP-1 | [Establish Initial stake.link Governance Processes and Council](SLURPs/SLURP-1.md) | Proposed |
+| SLURP-0 | [SLURP Formats and Templates](SLURPs/SLURP-0.md) | Draft |
+| SLURP-1 | [Establish Initial stake.link Governance Processes and Council](SLURPs/SLURP-1.md) | Draft |

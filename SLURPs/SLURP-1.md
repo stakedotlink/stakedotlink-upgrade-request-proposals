@@ -7,16 +7,12 @@
 This SLURP is intended to formalize the roles of the four entities that govern the stake.link protocol, as well as the process for formally proposing and ratifying changes to the protocol via stake.link Upgrade Request Proposals (SLURPs). These entities are the stake.link community (SDL holders, stakers, and liquidity providers), the Governing Council, the Core Contributors, and the stake.link Multi-sig Holders.
 
 The community proposes SLURPs and votes for community Council seats, the Council votes on SLURPs, the Core Contributors implement SLURPs, and the Multi-sig issues contract changes.
- 
-## Simple Summary
- 
-We propose the stake.link protocol leverage a model similar to Thales and Synthetix, whereby the community proposes changes to the protocol and elects members of a governing Council, the Council votes on these proposals, the Core Contributors implement these changes, and the Multi-sig holders apply these changes. 
 
-## Motivation
+## Rationale
  
 Currently, the stake.link protocol has no formal governance structure, and no process for parties to formally propose changes and upgrades to the protocol. 
 
-The adoption of Council style governance a la Synthetix and Thales allows for both meaningful formal community input and rapid iteration of the protocol. By leveraging [Discord](https://discord.gg/QZ3KsuJtCx) for rapid idea vetting, discussion, and iteration, [Discourse](https://talk.stake.link) for more formal longform discussion, [Github](https://github.com/stakedotlink/stakedotlink-upgrade-request-proposals) for formally proposing SLURPs, and [Snapshot](https://snapshot.org/#/stakedotlink.eth) for voting, the appropriate level of conversational speed and detail is encouraged and enabled.  
+The adoption of Council style governance allows for both meaningful formal community input and rapid iteration of the protocol. 
 
 ## Specification 
 
@@ -62,19 +58,7 @@ Leveraging an implementation similar to the [Thales Council](https://etherscan.i
 
 ### Voting
 
-After discussion on talk.stake.link, this SLURP (SLURP-1), paired with the implementation specifications of [SLURP-0](https://github.com/stakedotlink/stakedotlink-upgrade-request-proposals/blob/main/SLURPs/SLURP-0.md), will be put up for a YES/NO vote based on simple SDL/stSDL/SDL in LP position holdings via Snapshot.
-
-## Examples  
-
-n/a
-
-## Variables
-
-n/a
- 
-## Implementation
-
-n/a
+After discussion on talk.stake.link, this SLURP (SLURP-1), paired with the implementation specifications of SLURP-0, will be put up for a YES/NO vote based on simple SDL/stSDL/SDL in LP position holdings via Snapshot.
 
 ## Copyright
  
