@@ -29,7 +29,7 @@ Each status change is requested by the SLURP author and reviewed by the stake.li
 * **Draft** -- This SLURP is work-in-progress and being reviewed by a stake.link Council member with the author.
 * **Vote Pending** -- This SLURP is scheduled for vote on the stake.link Snapshot space.
 * **Approved** -- This SLURP has passed community governance and is now being prioritised for development.
-* **Implemented -- This SLURP has been implemented and deployed to mainnet.
+* **Implemented** -- This SLURP has been implemented and deployed to mainnet.
 * **Rejected** -- This SLURP has failed to reach consensus.
 
 ### What belongs in a successful SLURP?
@@ -99,7 +99,7 @@ The `created` header records the date that the SLURP was assigned a number. Both
 
 #### `updated` header
 
-The updated header records the date(s) when the SLURP was updated with "substantial" changes. This header is only valid for SLURPs of Draft and Active status.
+The `updated` header records the date(s) when the SLURP was updated with "substantial" changes. This header is only valid for SLURPs of Draft and Active status.
 
 #### `requires` header
 
