@@ -7,6 +7,7 @@ stake.link Upgrade Request Proposals (SLURPs) describe standards, processes and 
 
 | # | Title | Status | 
 | ----------- | ----------- | ----------- | 
-| SLURP-0 | [SLURP Formats and Templates](SLURPs/SLURP-0.md) | Draft |
-| SLURP-1 | [Establish Initial stake.link Governance Processes and Council](SLURPs/SLURP-1.md) | Draft |
-| SLURP-2 | [Submit the two community council seats to a vote for Epoch 1](SLURPs/SLURP-2.md) | Draft |
+| SLURP-0 | [SLURP Formats and Templates](SLURPs/SLURP-0.md) | Implemented |
+| SLURP-1 | [Establish Initial stake.link Governance Processes and Council](SLURPs/SLURP-1.md) | Implemented |
+| SLURP-2 | [Submit the two community council seats to a vote for Epoch 1](SLURPs/SLURP-2.md) | Rejected |
+| SLURP-2 | [SDL Community Airdrop](SLURPS/SLURP-3.md) | Vote Pending |
