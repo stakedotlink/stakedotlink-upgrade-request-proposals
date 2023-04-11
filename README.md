@@ -11,4 +11,4 @@ stake.link Upgrade Request Proposals (SLURPs) describe standards, processes and 
 | SLURP-1 | [Establish Initial stake.link Governance Processes and Council](SLURPs/SLURP-1.md) | Implemented |
 | SLURP-2 | [Submit the two community council seats to a vote for Epoch 1](SLURPs/SLURP-2.md) | Rejected |
 | SLURP-3 | [SDL Community Airdrop](SLURPs/SLURP-3.md) | Approved |
-| SLURP-4 | [SDL Community Airdrop](SLURPs/SLURP-4.md) | Vote Pending |
+| SLURP-4 | [Node Operator stSDL Locking](SLURPs/SLURP-4.md) | Vote Pending |
